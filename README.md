@@ -10,7 +10,7 @@ Simulink model of valve and pump control using PID regulator
 - [Introduction](#introduction)
 - [Project Description](#project-description)
   - [Key Components](#key-components)
-  - [Control Theory and Kinematics](#control-theory-and-kinematics)
+  - [Control Theory ](#control-theory-and-kinematics)
   - [Implementation Steps](#implementation-steps)
 - [Aim of project](#why-bother-with_this-project?)
 - [Applications](#applications)
