@@ -3,6 +3,8 @@ Simulink model of valve and pump control using PID regulator
 
 ![model](https://github.com/Meg4Byte/Water-Level-Control-System/assets/121357383/d70053a0-5158-4ed0-84c8-cd2abd6a257d)
 
+![output](https://github.com/Meg4Byte/Water-Level-Control-System/assets/121357383/af8c1d79-f7f4-4e35-af71-204b1473d1b1)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
