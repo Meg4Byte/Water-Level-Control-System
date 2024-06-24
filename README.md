@@ -17,7 +17,7 @@ Simulink model of valve and pump control using PID regulator
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [Cloning the Repository](#cloning-the-repository)
-  - [Running the Model](#running-the-model)
+- [Running the Model](#running-the-model)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -87,3 +87,33 @@ This non-linear system cannot be solved using linear system methods like Laplace
 
   ```bash
   git clone https://github.com/Meg4Byte/Water-Level-Control-System.git
+  ```
+  ```bash
+  cd Water-Level-Control-System
+  ```
+
+### Running the Model
+
+  1.Open MATLAB and navigate to the project directory.
+  2.Open the Simulink model file (WaterLevelControlSystem.slx).
+  3.Run the simulation to observe the system's behavior and the PID controller's performance.
+
+    
+## Contributing
+
+ If you'd like to contribute to this project, please follow these guidelines:
+ 
+ Fork the repository on GitHub.
+ Clone your forked repository to your local machine.
+ Create a new branch for your feature or bug fix.
+ Make your changes and commit them.
+ Push your changes to your fork on GitHub.
+ Create a pull request to submit your contribution.
+   
+## License 
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this code at your own discretion.
+
+## Contact
+
+For questions or feedback, feel free to reach out at petnenadd_d@uns.ac.rs .
