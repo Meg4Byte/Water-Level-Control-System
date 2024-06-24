@@ -30,13 +30,15 @@ The Water-Level-Control-System project focuses on maintaining a desired water le
 
 The system models a water tank where the water level is controlled by adjusting the voltage to a pump. The relationship between the input voltage and the water level is governed by the non-linear differential equation:
 
-\[ A \frac{dh}{dt} = bV - a\sqrt{h} \]
+$$\boxed{\Large A \cdot \frac{dh}{dt} = b \cdot V - a \cdot \sqrt{h}}$$
 
 where:
 - \( V \) is the input voltage controlling the pump,
 - \( h \) is the height of the water (water level in the tank),
 - \( A \) is the surface area of the tank,
 - \( b \) and \( a \) are constants.
+
+ ,all values are expressed in SI units.
 
 This non-linear system cannot be solved using linear system methods like Laplace transforms. The PID controller is used to regulate the water level despite the system's non-linearities and external disturbances.
 
