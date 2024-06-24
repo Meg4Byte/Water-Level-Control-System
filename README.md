@@ -90,9 +90,6 @@ This non-linear system cannot be solved using linear system methods like Laplace
   ```bash
   git clone https://github.com/Meg4Byte/Water-Level-Control-System.git
   ```
-  ```bash
-  cd Water-Level-Control-System
-  ```
 
 ## Running the Model
 
@@ -101,7 +98,6 @@ This non-linear system cannot be solved using linear system methods like Laplace
   2.Open the Simulink model file (WaterLevelControlSystem.slx).
   
   3.Run the simulation to observe the system's behavior and the PID controller's performance.
-
 
     
 ## Contributing
