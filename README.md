@@ -28,9 +28,9 @@ The Water-Level-Control-System project focuses on maintaining a desired water le
 
 ## Project Description
 
-The system models a water tank where the water level is controlled by adjusting the voltage to a pump. The relationship between the input voltage and the water level is governed by the non-linear differential equation:
+The system models a water tank where the water level is controlled by adjusting the voltage to a pump. The relationship between the input voltage and the water level is governed by the first order ODE :  
 
-$$\boxed{\Large A \cdot \frac{dh}{dt} = b \cdot V - a \cdot \sqrt{h}}$$
+$$\boxed{\Large A \cdot \frac{dh}{dt} = b \cdot V - a \cdot \sqrt{h}}$$  
 
 where:
 - \( V \) is the input voltage controlling the pump,
