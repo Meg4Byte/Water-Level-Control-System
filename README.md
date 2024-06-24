@@ -40,14 +40,14 @@ where:
 
 This non-linear system cannot be solved using linear system methods like Laplace transforms. The PID controller is used to regulate the water level despite the system's non-linearities and external disturbances.
 
-### Key Components
+### Parts of the System
 
 1. **Pump**: Adjusts the water level in the tank based on the input voltage.
 2. **Tank**: The container where the water level is controlled.
 3. **PID Controller**: Regulates the voltage to the pump to maintain the desired water level.
 4. **Sensors**: Measure the current water level and provide feedback to the controller.
 
-### Control Theory
+### Control Theory Overview
 
 - **PID Control**: The PID controller uses proportional, integral, and derivative terms to compute the control signal. The controller parameters are tuned to achieve the desired performance in terms of settling time, steady-state error, and stability.
 - **Non-linear Modeling**: The system's non-linear behavior is modeled using the given differential equation. Band-limited white noise is added in the feedback path to simulate sensor noise, and a step input signal is used to represent disturbances in the water flow.
