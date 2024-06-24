@@ -1,4 +1,7 @@
-# Water-Level-Control-System
+ # Water-Level-Control-System ![water-pump](https://github.com/Meg4Byte/Water-Level-Control-System/assets/121357383/d86bf682-1fc9-4e31-a492-98029f3e878c) ![water](https://github.com/Meg4Byte/Water-Level-Control-System/assets/121357383/c2682558-d23a-4997-8d94-6bc3cdda0f3b) ![water](https://github.com/Meg4Byte/Water-Level-Control-System/assets/121357383/c2682558-d23a-4997-8d94-6bc3cdda0f3b)
+
+
+
 
 Simulink model of valve and pump control using PID regulator 
 
